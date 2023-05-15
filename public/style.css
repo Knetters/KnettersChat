@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&family=IBM+Plex+Mono:ital,wght@0,200;0,300;0,400;1,300;1,400&display=swap');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: azure;
+    font-family: 'IBM+Plex+Mono', sans-serif;
+    color: #020202;
+}
+
+main {
+    height: 100%;
+    width: 100%;
+}
+
+section {
+    height: 60%;
+    width: 60%;
+    margin-top: 10%;
+    margin-left: 20%;
+    position: relative;
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: .5rem;
+}
+
+section form {
+    width: 100%;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0;
+    background-color: hsl(0, 0%, 98%);
+    padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 0rem 0rem .5rem .5rem;
+}
+
+form input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px;
+    border: none;
+    font-size: 1rem;
+    border-radius: 1rem;
+}
+
+button {
+    display: none;
+}
+
+ul {
+    list-style: none;
+    padding: 1rem;
+    margin: 0;
+}
+
