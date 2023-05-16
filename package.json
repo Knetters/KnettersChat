@@ -2,25 +2,25 @@
   "name": "connecting-people-my-first-chatroom",
   "version": "1.0.0",
   "description": "> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Knetters/connecting-people-my-first-chatroom.git"
+    "url": "git+https://github.com/Knetters/KnettersChat"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Knetters/connecting-people-my-first-chatroom/issues"
+    "url": "https://github.com/Knetters/KnettersChat/issues"
   },
-  "homepage": "https://github.com/Knetters/connecting-people-my-first-chatroom#readme",
+  "homepage": "https://github.com/Knetters/KnettersChat#readme",
   "dependencies": {
     "ejs": "^3.1.9",
     "express": "^4.18.2",
