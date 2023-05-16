@@ -18,7 +18,7 @@ Een deeltaak waarin je een eenvoudige chatroom ombouwt naar een chatroom in huis
 <li>Clone deze repository.</li>
 <li>Open de repository in je code-editor</li>
 <li>Open de terminal en typ 'npm install'</li>
-<li>Door gebruik te maken van 'node server.js', krijg je een lokale link waar je de code live kunt bekijken</li>
+<li>Door gebruik te maken van 'npm start', krijg je een lokale link waar je de code live kunt bekijken</li>
         
 <h3 id="#Kenmerken"> 📱 Kenmerken</h3>
 Dit project is gemaakt met Node.js, en met socket.io. Socket.io is een bibliotheek om real-time communicatie tussen de server en de client mogelijk te maken.
