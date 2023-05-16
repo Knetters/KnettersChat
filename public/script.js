@@ -25,6 +25,14 @@ socket.on('history', (history) => {
 })
 
 function addMessage(message) {
-  messages.appendChild(Object.assign(document.createElement('li'), { textContent: message }))
+  const li = document.createElement('li')
+  li.textContent = `user: ${message}`
+  messages.appendChild(li)
   messages.scrollTop = messages.scrollHeight
 }
+
+document.addEventListener('click', (event) => {
+  if (event.target !== input) {
+    input.focus()
+  }
+})

@@ -1,38 +1,47 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Knetters chatroom
 
-# Titel
+<h3>📚Inhoudsopgave</h3>
+<ul>
+<li><a href="#Opdracht"> 👨🏼‍💼 Opdracht</a></li> 
+<li><a href="#Gebruik"> 👩🏽‍💻 Gebruik </a></li>  
+ <li><a href="#Installatie"> 🛠Installatie </a></li>
+<li><a href="#Kenmerken"> 📱 Kenmerken </a></li> 
+</ul>
 
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+<h3 id="#Opdracht"> 👨🏼‍💼 Opdracht</h3>
+Een deeltaak waarin je een eenvoudige chatroom ombouwt naar een chatroom in huisstijl.
 
-## Inhoudsopgave
+        
+<h3 id="#Gebruik"> 👩🏽‍💻 Gebruik van website</h3>
 
-- [Beschrijving](#beschrijving)
-- [Gebruik](#gebruik)
-- [Kenmerken](#kenmerken)
-- [Installatie](#installatie)
-- [Bronnen](#bronnen)
-- [Licentie](#licentie)
+<h3 id="Installatie"> 🛠Installatie</h3>
+<li>Clone deze repository.</li>
+<li>Open de repository in je code-editor</li>
+<li>Open de terminal en typ 'npm install'</li>
+<li>Door gebruik te maken van 'node server.js', krijg je een lokale link waar je de code live kunt bekijken</li>
+        
+<h3 id="#Kenmerken"> 📱 Kenmerken</h3>
+Dit project is gemaakt met Node.js, en met socket.io. Socket.io is een bibliotheek om real-time communicatie tussen de server en de client mogelijk te maken.
 
-## Beschrijving
+<h4>Tools</h4>
+<ul>
+        <li> 🖥️ Visual Studio Code</li>
+        <li> 🖥️ Railway </li>
+        <li> 🖥️ LocalHost </li>
+</ul>
 
-<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+<h4>Gebruikte technieken</h4>
+<ul>
+<li>📟 HTML</li>
+        <li>🎨 CSS</li>
+        <li>🕹️ JavaScript</li>
+        <li>🥜 Node </li>
+  </ul>      
 
-## Gebruik
-
-<!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
-
-## Kenmerken
-
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? Misschien heb je iets met NodeJS gedaan, of heb je een framwork of library gebruikt? -->
-
-## Installatie
-
-<!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
-
-## Bronnen
+_Dit projects is gemaakt door Thomas._
 
 ## Licentie
 
-This project is licensed under the terms of the [MIT license](./LICENSE).
+![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+
+This work is licensed under [GNU GPLv3](./LICENSE).
