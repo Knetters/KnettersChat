@@ -26,7 +26,7 @@ socket.on('history', (history) => {
 
 function addMessage(message) {
   const li = document.createElement('li')
-  li.textContent = `user: ${message}`
+  li.textContent = `${message}`
   messages.appendChild(li)
   messages.scrollTop = messages.scrollHeight
 }
