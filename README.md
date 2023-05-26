@@ -1,5 +1,5 @@
 # Knetters chatroom
-[![Screenshot_9](https://github.com/Knetters/KnettersChat/assets/60781257/1ff41208-f843-421e-82dc-08e8e825506f)](https://github.com/Knetters/KnettersChat)
+<img width="1440" alt="Screenshot 2023-05-26 at 11 27 27" src="https://github.com/Knetters/KnettersChat/assets/60781257/1032b2e5-1494-4acb-bd56-82b4a7234b01">
 
 <h3>📚Inhoudsopgave</h3>
 <ul>
